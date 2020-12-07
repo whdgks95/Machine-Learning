@@ -1,2 +1,2 @@
 # Machine-Learning
-My Study ML
+Studying for ML
